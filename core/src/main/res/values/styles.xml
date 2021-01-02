@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="MyRatingBar">
+        <item name="colorControlActivated">@color/gold_2</item>
+        <item name="colorControlNormal">@color/gray</item>
+    </style>
+</resources>

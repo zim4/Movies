@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="sample_genres">Action, Adventure, Comedy, Crime, Thriller</string>
+    <string name="sample_title">Kingsman: The Golden Circle</string>
+    <string name="sample_overview">When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.</string>
+    <string name="sample_released_on">Released on Sep 20, 2017</string>
+    <string name="released_on">Released on %s</string>
+
+    <string name="no_data">There is nothing here</string>
+    <string name="something_wrong">Oops.. something went wrong</string>
+
+    <string name="broken_image">Broken Image</string>
+    <string name="poster_image">Poster Image</string>
+
+    <string-array name="short_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+
+</resources>

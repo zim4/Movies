@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="sample_genres">Action, Adventure, Comedy, Crime, Thriller</string>
+    <string name="sample_title">Kingsman: The Golden Circle</string>
+    <string name="language">Language</string>
+    <string name="sample_language">English</string>
+    <string name="release_date">Release Date</string>
+    <string name="sample_release_date">Sep 20, 2017</string>
+    <string name="runtime">Runtime</string>
+    <string name="sample_runtime">2h 1m</string>
+    <string name="overview">Overview</string>
+    <string name="sample_overview">When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="remove_to_favorites">Remove to Favorites</string>
+    <string name="whats_popular">What\'s Popular</string>
+    <string name="my_favorites">My Favorites</string>
+    <string name="type_here_to_search">Type here to search by title</string>
+    <string name="backdrop_image">Backdrop Image</string>
+    <string name="to_favorite_button">To Favorite Button</string>
+    <string name="to_search_button">To Search Button</string>
+    <string name="clear_button">Clear Button</string>
+
+</resources>
